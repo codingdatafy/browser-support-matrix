@@ -1,0 +1,28 @@
+# @project CodingDatafy
+# @license MIT
+# @copyright 2026 CodingDatafy Organization
+# @author CodingDatafy Team
+
+# === IDEs and Editor Configurations ===
+# Ignore personal editor settings but keep shared workspace extensions
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# === Operating System Files ===
+# Common OS-generated files (especially from local editing)
+.DS_Store
+Thumbs.db
+
+# === Temporary & Backup Files ===
+# Ignore temporary cache or autosave artifacts from text editors
+*.bak
+*.tmp
+*.temp
+*~
