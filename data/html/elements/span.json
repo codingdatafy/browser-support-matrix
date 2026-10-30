@@ -1,0 +1,67 @@
+{
+  "name": "span",
+  "category": "html",
+  "subcategory": "elements",
+  "description": "The <span> element is a generic inline container for phrasing content. It does not inherently represent anything and has no effect on content or layout until styled using CSS.",
+  "spec_url": "https://html.spec.whatwg.org/multipage/text-level-semantics.html#the-span-element",
+  "support": {
+    "engines": {
+      "chromium": {
+        "status": "supported",
+        "version_added": "1"
+      },
+      "gecko": {
+        "status": "supported",
+        "version_added": "1.0"
+      },
+      "webkit": {
+        "status": "supported",
+        "version_added": "1.0"
+      }
+    },
+    "desktop": {
+      "chrome": {
+        "status": "supported",
+        "version_added": "1"
+      },
+      "edge": {
+        "status": "supported",
+        "version_added": "12"
+      },
+      "opera": {
+        "status": "supported",
+        "version_added": "1"
+      },
+      "brave": {
+        "status": "supported",
+        "version_added": "1.0"
+      },
+      "firefox": {
+        "status": "supported",
+        "version_added": "1.0"
+      },
+      "safari": {
+        "status": "supported",
+        "version_added": "1.0"
+      }
+    },
+    "mobile": {
+      "chrome_android": {
+        "status": "supported",
+        "version_added": "18"
+      },
+      "safari_ios": {
+        "status": "supported",
+        "version_added": "1.0"
+      },
+      "samsung_internet": {
+        "status": "supported",
+        "version_added": "1.0"
+      },
+      "brave_android": {
+        "status": "supported",
+        "version_added": "1.0"
+      }
+    }
+  }
+}
