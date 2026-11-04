@@ -1,0 +1,67 @@
+{
+  "name": "search",
+  "category": "html",
+  "subcategory": "elements",
+  "description": "The <search> element is a semantic container that identifies the purpose of the descendant content as representing search or filtering capabilities for the website, application, or document.",
+  "spec_url": "https://html.spec.whatwg.org/multipage/grouping-content.html#the-search-element",
+  "support": {
+    "engines": {
+      "chromium": {
+        "status": "supported",
+        "version_added": "118"
+      },
+      "gecko": {
+        "status": "supported",
+        "version_added": "119"
+      },
+      "webkit": {
+        "status": "supported",
+        "version_added": "17.4"
+      }
+    },
+    "desktop": {
+      "chrome": {
+        "status": "supported",
+        "version_added": "118"
+      },
+      "edge": {
+        "status": "supported",
+        "version_added": "118"
+      },
+      "opera": {
+        "status": "supported",
+        "version_added": "104"
+      },
+      "brave": {
+        "status": "supported",
+        "version_added": "1.59"
+      },
+      "firefox": {
+        "status": "supported",
+        "version_added": "119"
+      },
+      "safari": {
+        "status": "supported",
+        "version_added": "17.4"
+      }
+    },
+    "mobile": {
+      "chrome_android": {
+        "status": "supported",
+        "version_added": "118"
+      },
+      "safari_ios": {
+        "status": "supported",
+        "version_added": "17.4"
+      },
+      "samsung_internet": {
+        "status": "supported",
+        "version_added": "25.0"
+      },
+      "brave_android": {
+        "status": "supported",
+        "version_added": "1.59"
+      }
+    }
+  }
+}
