@@ -1,0 +1,67 @@
+{
+  "name": "main",
+  "category": "html",
+  "subcategory": "elements",
+  "description": "The <main> element represents the dominant content of the body of a document or application. The main content area consists of content that is directly related to or expands upon the central topic of a document or the central functionality of an application.",
+  "spec_url": "https://html.spec.whatwg.org/multipage/grouping-content.html#the-main-element",
+  "support": {
+    "engines": {
+      "chromium": {
+        "status": "supported",
+        "version_added": "26"
+      },
+      "gecko": {
+        "status": "supported",
+        "version_added": "28"
+      },
+      "webkit": {
+        "status": "supported",
+        "version_added": "7"
+      }
+    },
+    "desktop": {
+      "chrome": {
+        "status": "supported",
+        "version_added": "26"
+      },
+      "edge": {
+        "status": "supported",
+        "version_added": "12"
+      },
+      "opera": {
+        "status": "supported",
+        "version_added": "15"
+      },
+      "brave": {
+        "status": "supported",
+        "version_added": "1.0"
+      },
+      "firefox": {
+        "status": "supported",
+        "version_added": "28"
+      },
+      "safari": {
+        "status": "supported",
+        "version_added": "7"
+      }
+    },
+    "mobile": {
+      "chrome_android": {
+        "status": "supported",
+        "version_added": "26"
+      },
+      "safari_ios": {
+        "status": "supported",
+        "version_added": "7"
+      },
+      "samsung_internet": {
+        "status": "supported",
+        "version_added": "1.5"
+      },
+      "brave_android": {
+        "status": "supported",
+        "version_added": "1.0"
+      }
+    }
+  }
+}
