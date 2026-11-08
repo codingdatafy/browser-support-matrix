@@ -1,0 +1,67 @@
+{
+  "name": "section",
+  "category": "html",
+  "subcategory": "elements",
+  "description": "The <section> element represents a generic standalone section of a document, which doesn't have a more specific semantic element to represent it. Sections should always have a heading, with very few exceptions.",
+  "spec_url": "https://html.spec.whatwg.org/multipage/sections.html#the-section-element",
+  "support": {
+    "engines": {
+      "chromium": {
+        "status": "supported",
+        "version_added": "6"
+      },
+      "gecko": {
+        "status": "supported",
+        "version_added": "9"
+      },
+      "webkit": {
+        "status": "supported",
+        "version_added": "5"
+      }
+    },
+    "desktop": {
+      "chrome": {
+        "status": "supported",
+        "version_added": "6"
+      },
+      "edge": {
+        "status": "supported",
+        "version_added": "12"
+      },
+      "opera": {
+        "status": "supported",
+        "version_added": "11.1"
+      },
+      "brave": {
+        "status": "supported",
+        "version_added": "1.0"
+      },
+      "firefox": {
+        "status": "supported",
+        "version_added": "9"
+      },
+      "safari": {
+        "status": "supported",
+        "version_added": "5"
+      }
+    },
+    "mobile": {
+      "chrome_android": {
+        "status": "supported",
+        "version_added": "18"
+      },
+      "safari_ios": {
+        "status": "supported",
+        "version_added": "4.2"
+      },
+      "samsung_internet": {
+        "status": "supported",
+        "version_added": "1.0"
+      },
+      "brave_android": {
+        "status": "supported",
+        "version_added": "1.0"
+      }
+    }
+  }
+}
