@@ -1,0 +1,67 @@
+{
+  "name": "footer",
+  "category": "html",
+  "subcategory": "elements",
+  "description": "The <footer> element represents a footer for its nearest ancestor sectioning content or sectioning root element. A footer typically contains information about the author of the section, copyright data, or links to related documents.",
+  "spec_url": "https://html.spec.whatwg.org/multipage/sections.html#the-footer-element",
+  "support": {
+    "engines": {
+      "chromium": {
+        "status": "supported",
+        "version_added": "6"
+      },
+      "gecko": {
+        "status": "supported",
+        "version_added": "9"
+      },
+      "webkit": {
+        "status": "supported",
+        "version_added": "5"
+      }
+    },
+    "desktop": {
+      "chrome": {
+        "status": "supported",
+        "version_added": "6"
+      },
+      "edge": {
+        "status": "supported",
+        "version_added": "12"
+      },
+      "opera": {
+        "status": "supported",
+        "version_added": "11.1"
+      },
+      "brave": {
+        "status": "supported",
+        "version_added": "1.0"
+      },
+      "firefox": {
+        "status": "supported",
+        "version_added": "9"
+      },
+      "safari": {
+        "status": "supported",
+        "version_added": "5"
+      }
+    },
+    "mobile": {
+      "chrome_android": {
+        "status": "supported",
+        "version_added": "18"
+      },
+      "safari_ios": {
+        "status": "supported",
+        "version_added": "4.2"
+      },
+      "samsung_internet": {
+        "status": "supported",
+        "version_added": "1.0"
+      },
+      "brave_android": {
+        "status": "supported",
+        "version_added": "1.0"
+      }
+    }
+  }
+}
